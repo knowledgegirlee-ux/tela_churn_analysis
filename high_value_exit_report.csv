@@ -1,0 +1,4 @@
+exit_reason,customer_count,avg_monthly_revenue,total_revenue_at_risk,avg_equipment_age,avg_support_calls,avg_dropped_calls,avg_overage_charges
+0,4767,81.99,3455091.36,702.65,0.71,6.53,27.74
+1,12070,87.54,9330333.05,291.48,1.26,7.27,28.61
+2,2275,155.37,3109116.56,249.61,8.47,25.51,84.33
